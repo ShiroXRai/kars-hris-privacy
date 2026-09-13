@@ -1,6 +1,6 @@
-# KARS HRIS — Kebijakan Privasi (GitHub Pages)
+# KARS ONE — Kebijakan Privasi (GitHub Pages)
 
-Situs statis sederhana untuk menghosting **Kebijakan Privasi** KARS HRIS
+Situs statis sederhana untuk menghosting **Kebijakan Privasi** KARS ONE
 melalui GitHub Pages.
 
 ## Cara pakai
